@@ -10,7 +10,7 @@ public class Client {
 		
 		light.off_button_pushed();
 		
-		light.setState(ON.getInstance());
+//		light.setState(ON.getInstance());
 		
 	}
 }

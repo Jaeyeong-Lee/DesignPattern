@@ -4,6 +4,7 @@ public class Light {
 	
 	private State state;
 	
+	// initialize OFF state.
 	public Light(){
 		state = OFF.getInstance();
 	}
